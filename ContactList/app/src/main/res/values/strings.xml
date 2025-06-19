@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ContactList</string>
+    <string name="contact_photo_taken">Contact photo</string>
+    <string name="photo_capture_failed">Failed to capture photo</string>
+    <string name="error_creating_file">Error creating image file</string>
+    <string name="permission_needed">Permission needed</string>
+    <string name="camera_permission_rationale">This app needs camera permission to take photos for contacts</string>
+    <string name="camera_permission_denied">Camera permission is required to take photos. You can enable it in app settings.</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="name_required">Name required</string>
+    <string name="email_required">Email Required</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="phone_required">Phone Required</string>
+</resources>
